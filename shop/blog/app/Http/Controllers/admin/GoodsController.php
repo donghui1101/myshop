@@ -42,8 +42,7 @@ class GoodsController extends Controller
 
         $data = $request->all();
         $file = $request->file('gpicture')->store('files');
-        dump($data); 
-        dump($file);      
+              
     }
 
     /**
