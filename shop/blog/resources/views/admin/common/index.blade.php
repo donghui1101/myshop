@@ -56,10 +56,10 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 							<a href="#"><i class="fa fa-cogs nav_icon"></i>用户管理<span class="nav-badge">12</span> <span class="fa arrow"></span></a>
 							<ul class="nav nav-second-level collapse">
 								<li>
-									<a href="grids.html">查看用户</a>
+									<a href="/admin/users">查看用户</a>
 								</li>
 								<li>
-									<a href="media.html">添加用户</a>
+									<a href="/admin/users/create">添加用户</a>
 								</li>
 							</ul>
 							<!-- /nav-second-level -->

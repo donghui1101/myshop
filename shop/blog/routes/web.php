@@ -26,3 +26,8 @@ Route::resource('admin/goods','admin\GoodsController');
 Route::get('/','home\IndexController@index');
 /* login*/
 Route::resource('home/login','home\LoginController');
+
+
+
+// 后台添加用户的路由
+Route::resource('admin/users','admin\UsersController');
